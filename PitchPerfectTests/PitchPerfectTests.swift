@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import PitchPerfect
+@testable import PitchPerfect2
 
 class PitchPerfectTests: XCTestCase {
     
